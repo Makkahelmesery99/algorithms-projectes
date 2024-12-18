@@ -1,0 +1,14 @@
+C:\Users\makka\OneDrive\Desktop\Heap Sort algo Project\Heap Sort algo Project\bin\Debug\net8.0\Heap Sort algo Project.exe
+C:\Users\makka\OneDrive\Desktop\Heap Sort algo Project\Heap Sort algo Project\bin\Debug\net8.0\Heap Sort algo Project.deps.json
+C:\Users\makka\OneDrive\Desktop\Heap Sort algo Project\Heap Sort algo Project\bin\Debug\net8.0\Heap Sort algo Project.runtimeconfig.json
+C:\Users\makka\OneDrive\Desktop\Heap Sort algo Project\Heap Sort algo Project\bin\Debug\net8.0\Heap Sort algo Project.dll
+C:\Users\makka\OneDrive\Desktop\Heap Sort algo Project\Heap Sort algo Project\bin\Debug\net8.0\Heap Sort algo Project.pdb
+C:\Users\makka\OneDrive\Desktop\Heap Sort algo Project\Heap Sort algo Project\obj\Debug\net8.0\Heap Sort algo Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makka\OneDrive\Desktop\Heap Sort algo Project\Heap Sort algo Project\obj\Debug\net8.0\Heap Sort algo Project.AssemblyInfoInputs.cache
+C:\Users\makka\OneDrive\Desktop\Heap Sort algo Project\Heap Sort algo Project\obj\Debug\net8.0\Heap Sort algo Project.AssemblyInfo.cs
+C:\Users\makka\OneDrive\Desktop\Heap Sort algo Project\Heap Sort algo Project\obj\Debug\net8.0\Heap Sort algo Project.csproj.CoreCompileInputs.cache
+C:\Users\makka\OneDrive\Desktop\Heap Sort algo Project\Heap Sort algo Project\obj\Debug\net8.0\Heap Sort algo Project.dll
+C:\Users\makka\OneDrive\Desktop\Heap Sort algo Project\Heap Sort algo Project\obj\Debug\net8.0\refint\Heap Sort algo Project.dll
+C:\Users\makka\OneDrive\Desktop\Heap Sort algo Project\Heap Sort algo Project\obj\Debug\net8.0\Heap Sort algo Project.pdb
+C:\Users\makka\OneDrive\Desktop\Heap Sort algo Project\Heap Sort algo Project\obj\Debug\net8.0\Heap Sort algo Project.genruntimeconfig.cache
+C:\Users\makka\OneDrive\Desktop\Heap Sort algo Project\Heap Sort algo Project\obj\Debug\net8.0\ref\Heap Sort algo Project.dll

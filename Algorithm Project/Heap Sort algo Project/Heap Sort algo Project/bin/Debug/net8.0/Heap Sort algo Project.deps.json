@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Heap Sort algo Project/1.0.0": {
+        "runtime": {
+          "Heap Sort algo Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Heap Sort algo Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
